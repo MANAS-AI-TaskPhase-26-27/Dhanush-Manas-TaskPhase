@@ -73,6 +73,10 @@ I then next learn what is overfitting and underfitting. In underfitting a model 
 
 
 
+Handling outliers - 
+
+
+
 Lastly i learnt about evaluation metrics, there are different metrics based on the model. For a supervised learning model there are two types, one is classification and other is regression
 
 in classification the metrics are - (outcomes are true positive, true negative, false positive, false negative)
@@ -89,8 +93,4 @@ then there are metrics in reggression-
 
 
 This is all i have learnt about ML up until now, i will need more practice but i think i know most of it on a high level.
-
-
-
-
 
